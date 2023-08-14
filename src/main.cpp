@@ -30,6 +30,9 @@ int main()
 using namespace std;
 using namespace gtsam;
 
+// Just a simple example to exercise the parts of the gtsam api to make sure
+// everything is building correctly.   I actually have very little knowledge
+// of what this is doing but plucked this from one of the examples.
 int run_gtsam_test()
 {
     // Create a factor graph
